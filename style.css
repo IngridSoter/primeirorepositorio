@@ -1,0 +1,21 @@
+h1{
+ color:blueviolet;
+ font-size: 30pix;   
+}
+h2{
+    color: pink;
+    font-size: 25pix;
+}
+img{
+    width: 150px;
+}
+button{
+    width: 200px;
+}
+#caixa{
+    background-color: orange;
+    width: 1000px;
+    height: 400px;
+    margin-left: 80px;
+    padding-left: 80px;
+}
